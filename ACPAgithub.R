@@ -1,7 +1,7 @@
 # Packages
 library(tidyverse)
 library(patchwork)
-
+###funnel plot
 # Read data
 data <- read.csv("FILE",
                  stringsAsFactors = FALSE, check.names = FALSE) ##Add file path
